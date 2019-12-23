@@ -1,4 +1,4 @@
-DCLab
+
 For OpenMp Programs execution
 gcc -fopenmp fileName.c
 ./a.out
